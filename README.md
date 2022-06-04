@@ -1,2 +1,10 @@
 Exchange NFT Market
 ![171696277-3cbf2dc4-007e-4752-9111-375bc9f5c0f9](https://user-images.githubusercontent.com/57506571/172021063-2b08c060-2a2d-49a2-ac0a-75715ea1c867.png)
+![4](https://user-images.githubusercontent.com/57506571/172022647-fe11fd2c-461c-48a9-887d-1f52f7647d14.png)
+![5](https://user-images.githubusercontent.com/57506571/172022648-21db75c6-8077-4c25-87a7-282a8caadedd.png)
+![6](https://user-images.githubusercontent.com/57506571/172022649-ceeae63f-b825-4132-8deb-b09102c80fe1.png)
+![8](https://user-images.githubusercontent.com/57506571/172022652-a95f63b2-8537-4359-ade8-07ba8a1890f7.png)
+![9](https://user-images.githubusercontent.com/57506571/172022657-c122fb11-9d4c-4455-9c4a-36bfc9bc6dd4.png)
+![10](https://user-images.githubusercontent.com/57506571/172022658-79fc42b6-79b2-4fcb-b1c2-be6417f19f93.png)
+![11](https://user-images.githubusercontent.com/57506571/172022659-7b2bcda3-1f69-4354-b05c-0513d63de34a.png)
+![12](https://user-images.githubusercontent.com/57506571/172022660-8d3b0f4e-2a89-4ae0-b6a8-65a9bc39a7b4.png)
