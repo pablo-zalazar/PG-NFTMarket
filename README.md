@@ -3,15 +3,14 @@
 <h3>¿De qué se trata este proyecto?</h3>
 
 <p> 
- Diseñar y desarrollar una plataforma de intercambio de NFT que
-permita al usuario crear, comprar vender y/o intecarmbiar sus activos
-en la plataforma.
-Implementación de pasarella de pagos con Mercado Pago
-Optimización con Socket.io
-Chat para la comunidad con Socket.io
-Creación y registro de usuarios usando JWT y bcrypt
-Deploy con Heroku y Netlify
-Desarrollar la plataforma utilizando diferentes tecnologías como React,
+Diseñar y desarrollar una plataforma de intercambio de NFT que
+permita al usuario crear, comprar, vender y/o intercambiar sus activos
+en la plataforma.</br>
+Implementación de pasarela de pagos con Mercado Pago</br>
+Optimización e implementacion de un chat para la comunidad con Socket.io</br>
+Creación y registro de usuarios usando JWT y bcrypt</br>
+Deploy con Heroku y Netlify</br>
+Para el desarrollo de la plataforma utilizamos diferentes tecnologías como React,
 Redux, Socket.io, Sass, Gulp, CSS3, y para el Back-End MongoDb,
 Mongoose, Express,js, Node,js
 </p>
